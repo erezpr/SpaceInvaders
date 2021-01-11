@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceInvaders", "SpaceInvaders\SpaceInvaders.csproj", "{00A3D102-46D9-4409-8497-AD226AB31269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{58A9AA09-2EC9-4A3D-AF0D-812941C33FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A3D102-46D9-4409-8497-AD226AB31269}.Debug|x86.ActiveCfg = Debug|x86
+		{00A3D102-46D9-4409-8497-AD226AB31269}.Debug|x86.Build.0 = Debug|x86
+		{00A3D102-46D9-4409-8497-AD226AB31269}.Release|x86.ActiveCfg = Release|x86
+		{00A3D102-46D9-4409-8497-AD226AB31269}.Release|x86.Build.0 = Release|x86
+		{58A9AA09-2EC9-4A3D-AF0D-812941C33FCA}.Debug|x86.ActiveCfg = Debug|x86
+		{58A9AA09-2EC9-4A3D-AF0D-812941C33FCA}.Debug|x86.Build.0 = Debug|x86
+		{58A9AA09-2EC9-4A3D-AF0D-812941C33FCA}.Release|x86.ActiveCfg = Release|x86
+		{58A9AA09-2EC9-4A3D-AF0D-812941C33FCA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E748BF23-CA4A-433C-A6F2-63703FE7EEB9}
+	EndGlobalSection
+EndGlobal
